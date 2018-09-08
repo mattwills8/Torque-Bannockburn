@@ -2,7 +2,7 @@
 /* Theme setup */
 add_action( 'after_setup_theme', 'wpt_setup' );
     if ( ! function_exists( 'wpt_setup' ) ):
-        function wpt_setup() {  
+        function wpt_setup() {
             register_nav_menu( 'primary', __( 'Primary navigation', 'wptuts' ) );
         } endif;
 
@@ -18,7 +18,7 @@ add_action( 'wp_enqueue_scripts', 'wpbootstrap_scripts_with_jquery' );
 
 // Register custom navigation walker
     require_once('wp_bootstrap_navwalker.php');
-    
+
 
 function cc_mime_types($mimes) {
   $mimes['svg'] = 'image/svg+xml';
@@ -97,5 +97,4 @@ function tq_create_availability_tax() {
     );
 }
 add_action( 'init', 'tq_create_availability_tax' );
-
 ?>

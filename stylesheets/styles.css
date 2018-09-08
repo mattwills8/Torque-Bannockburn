@@ -8316,7 +8316,7 @@ a.linktext-light:hover:after {
 	background-color: transparent;
 	border-bottom: solid 2px white;
 	padding-bottom: 0;
-	
+
 }
 .navbar-default .navbar-nav > .active > a:after, .overlay-content > .active > a:after{
 	border-bottom: 0px;
@@ -8974,32 +8974,32 @@ main.gallery .carousel-control p{
 /* line 665, ../sass/styles.scss */
 #map-canvas{
 	border: .5rem solid transparent;
-    -webkit-border-image: 
+    -webkit-border-image:
       -webkit-linear-gradient(to right, #4dbc93, #3B7298);
     -moz-border-image:
-      -moz-linear-gradient(left, #4dbc93, #3B7298); 
+      -moz-linear-gradient(left, #4dbc93, #3B7298);
     -ms-border-image:
-      -ms-linear-gradient(left, #4dbc93, #3B7298);  
+      -ms-linear-gradient(left, #4dbc93, #3B7298);
     -o-border-image:
       -o-linear-gradient(left, #4dbc93, #3B7298);
     border-image:
-      linear-gradient(to right, #4dbc93, #3B7298); 
+      linear-gradient(to right, #4dbc93, #3B7298);
 
 	  border-image-slice: 1;
 
 }
 .category1 {
 	  border: 2px solid transparent;
-    -webkit-border-image: 
+    -webkit-border-image:
       -webkit-linear-gradient(to right, #d8df26, #4dbc93, #3B7298);
     -moz-border-image:
       -moz-linear-gradient(left, #d8df26, #4dbc93, #3B7298);
 		-ms-border-image:
-      -ms-linear-gradient(left, #4dbc93, #3B7298);  
+      -ms-linear-gradient(left, #4dbc93, #3B7298);
     -o-border-image:
       -o-linear-gradient(left, #d8df26, #4dbc93, #3B7298);
     border-image:
-      linear-gradient(to right, #d8df26, #4dbc93, #3B7298); 
+      linear-gradient(to right, #d8df26, #4dbc93, #3B7298);
 
 	  border-image-slice: 1;
 }
@@ -9176,8 +9176,8 @@ li{
 .mobile-button{
 	font-size:2rem;
 	cursor:pointer;
-	float: right; 
-	margin-top: 1.25rem; 
+	float: right;
+	margin-top: 1.25rem;
 	margin-right: 8%;
 	background: transparent;
 	border: none;
@@ -9257,7 +9257,7 @@ li{
 	}
 
 	.lena-cheat{
-		margin: 0;	
+		margin: 0;
 	}
 
 	.homepage .section2{
@@ -9318,7 +9318,7 @@ li{
 	line-height: 3rem;
 	}
 */
-	
+
 	/* MOBILE NAV STYLES */
 	.overlay-content > li > a, .overlay-content > .active > a{
 		margin: 0;
@@ -9340,7 +9340,7 @@ li{
 		background: rgba(0,0,0,.2);
 		border-bottom: solid 2px white;
 		margin: 0;
-		padding: 1.5rem 1rem;	
+		padding: 1.5rem 1rem;
 	}
 	.overlay-content > li > a:link, .overlay-content > li > a:visited{
 		background: rgba(0,0,0,0);
@@ -9378,7 +9378,7 @@ li{
   .carousel-control.right:after, .carousel-control.left:before {
 		content: none;
 	}
-	
+
 }
 
 .nowrap{
@@ -9414,4 +9414,19 @@ object {
 
 .d-none{
 	display: none;
+}
+
+
+.heading-ul ul {
+  padding-left: 0;
+}
+
+.header-row {
+  padding-bottom: 10px;
+}
+
+.header-block {
+  border-bottom: 2px solid grey;
+  padding-top: 10px;
+  padding-bottom: 0;
 }
