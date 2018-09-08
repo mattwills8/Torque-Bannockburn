@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1300 752.4" style="enable-background:new 0 0 1300 752.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:url(#SVGID_3_);}
+	.st1{clip-path:url(#SVGID_5_);fill:url(#SVGID_6_);}
+</style>
+<g>
+	<g>
+		<defs>
+			<polyline id="SVGID_1_" points="-4,507.9 331.6,699.1 1309.3,142.4 1309.3,753.5 -4,753.5 -4,507.9 			"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="1299.6589" y1="299.1" x2="-18.5441" y2="299.1" gradientTransform="matrix(1 0 0 -1 0 754)">
+			<stop  offset="0" style="stop-color:#18B48A"/>
+			<stop  offset="1.439261e-02" style="stop-color:#19B38A"/>
+			<stop  offset="1" style="stop-color:#3B7296"/>
+		</linearGradient>
+		<rect x="-8" y="77.8" class="st0" width="1316.1" height="754.2"/>
+	</g>
+	<g>
+		<defs>
+			<polyline id="SVGID_4_" points="-4,507.9 331.6,699.1 1309.3,142.4 1309.3,753.5 -4,753.5 -4,507.9 			"/>
+		</defs>
+		<clipPath id="SVGID_5_">
+			<use xlink:href="#SVGID_4_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="1277.9695" y1="-71.45" x2="651.3319" y2="-71.45" gradientTransform="matrix(1 0 0 -1 0 754)">
+			<stop  offset="0" style="stop-color:#3B7296"/>
+			<stop  offset="1" style="stop-color:#18B48A"/>
+		</linearGradient>
+		<polygon class="st1" points="500.5,877.8 500.5,1233.4 1308.8,772.9 1309,417.5 		"/>
+	</g>
+</g>
+</svg>

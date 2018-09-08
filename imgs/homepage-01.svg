@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1300 475" style="enable-background:new 0 0 1300 475;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#XMLID_4_);}
+	.st2{fill:none;stroke:#FFFFFF;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<defs>
+		<rect id="XMLID_1_" width="1300" height="475"/>
+	</defs>
+	<clipPath id="XMLID_3_">
+		<use xlink:href="#XMLID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#XMLID_3_);">
+		
+			<image style="overflow:visible;" width="2088" height="1208" xlink:href="../../../../Volumes/projects/Glen Star Properties/GLEN-0028 Bannockburn Lakes Website/03 Design/Graphic Assets for Web/maps/Screen Shot 2016-09-20 at 5.09.09 PM.png"  transform="matrix(0.6888 0 0 0.6888 -69.1108 -230.5256)">
+		</image>
+	</g>
+</g>
+<g>
+	<linearGradient id="XMLID_4_" gradientUnits="userSpaceOnUse" x1="650" y1="248.2469" x2="650" y2="183.1772">
+		<stop  offset="0" style="stop-color:#D8DF26"/>
+		<stop  offset="0.5" style="stop-color:#4DBA91"/>
+		<stop  offset="1" style="stop-color:#3C7397"/>
+	</linearGradient>
+	<path id="XMLID_6_" class="st1" d="M674.5,206.8c0,13.5-24.5,41.7-24.5,41.7s-24.5-28.1-24.5-41.7s11-24.5,24.5-24.5
+		S674.5,193.2,674.5,206.8z"/>
+	<g>
+		<g>
+			<polygon class="st2" points="655.1,211.2 658.8,213.3 664.3,210.2 660.6,208.1 			"/>
+			<polygon class="st2" points="664.3,206 664.3,206 664.3,206 			"/>
+			<polygon class="st2" points="664.3,206 664.3,206 664.3,206 			"/>
+		</g>
+		<g>
+			<polygon class="st2" points="650,197.8 658.8,202.9 664.3,199.7 650,191.6 			"/>
+		</g>
+		<polygon class="st2" points="639.4,208.1 635.7,206 635.7,210.2 		"/>
+		<polygon class="st2" points="644.9,211.2 639.4,208.1 635.7,210.2 641.2,213.3 		"/>
+		<polygon class="st2" points="641.2,213.3 635.7,210.2 635.7,216.5 650,224.6 650,218.3 		"/>
+		<g>
+			<polygon class="st2" points="635.7,199.7 641.2,202.9 650,197.8 650,191.6 			"/>
+		</g>
+		<polygon class="st2" points="635.7,199.7 635.7,206 644.9,211.2 650,208.3 650,207.9 		"/>
+		<polygon class="st2" points="650,207.9 650,208.3 655.1,211.2 664.3,206 664.3,199.7 		"/>
+		<polygon class="st2" points="650,218.3 650,224.6 664.3,216.5 664.3,210.2 		"/>
+	</g>
+</g>
+</svg>
